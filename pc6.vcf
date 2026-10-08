@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Chan;Peggy;;;
+FN:Peggy Chan 陳可蓓
+ORG:International Finance Centre Management Co.\, Ltd.
+TITLE:Senior Property & Facility Manager
+item1.TEL:+85228245764
+item1.X-ABLabel:Direct
+item2.TEL:+85221473538
+item2.X-ABLabel:Telephone
+item3.TEL:+85222953307
+item3.X-ABLabel:Fax
+EMAIL;TYPE=INTERNET:peggychan@ifc.com.hk
+URL:https://www.ifc.com.hk
+ADR:;;Suite 2013\, 20/F\, Two International Finance Centre\, 8 Finance Street;Central;;;Hong Kong
+END:VCARD
